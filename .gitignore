@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+report
+__pycache__
+/pytest.ini
+/.idea
+/.pytest_cache
